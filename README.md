@@ -44,7 +44,7 @@ pip install qrcode[pil] pillow
 ## How to Run
 
 ```bash
-python main.py
+python qr_generator.py
 ```
 
 The program will:
